@@ -6,10 +6,9 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-  /*this main function verify if numb is pos/ neg/ /zero */
-  
+  /*this main function verify if numb is positive negitve or zero */
   int n;
-  srand(time(0))
+  srand(time(0));
   n = rand() - RAND_MAX / 2;
   if( n > 0 ) {
   /* if condition is true then print the following */
@@ -24,7 +23,6 @@ printf("%d is positive \n",n);
     printf("%d is zero\n",n);
     }
   return (0);
-
 }
 
   
