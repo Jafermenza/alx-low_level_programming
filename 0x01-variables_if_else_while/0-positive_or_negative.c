@@ -3,19 +3,11 @@
 #include <time.h>
 /* main.c */
 
-/**
-
- * main - Entry point
-
- * 
-
- * Description: 'the program's description'
-
- * 
-
- * Return: Always 0 (Success)
-
- */
+/*
+main - Entry point
+Description: 'verify if the number is 0 or negative or positive'
+Return: Always 0 (Success)
+*/
 int main(void)
 {
 /*this main function verify if numb is positive negitve or zero */
