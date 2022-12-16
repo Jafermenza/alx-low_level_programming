@@ -2,10 +2,10 @@
 #include <stdio.h>
 #include <time.h>
 /**
- *main: Entry point 
- *main.c:world jdd
- *Short Description: documenation betty style for these f
- *Description: verify if the number is 0 or negative or positive
+ *main:Entry point 
+ *main:world jdd
+ *Short Description:documenation betty style for these f
+ *Description:verify if the number is 0 or negative or positive
  *Return: Always 0 (Success)
 */
 int main(void)
