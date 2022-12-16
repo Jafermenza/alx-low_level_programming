@@ -1,8 +1,21 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* more headers goes there */
-/* betty style doc for function main goes there */
+/* main.c */
+
+/**
+
+ * main - Entry point
+
+ * 
+
+ * Description: 'the program's description'
+
+ * 
+
+ * Return: Always 0 (Success)
+
+ */
 int main(void)
 {
 /*this main function verify if numb is positive negitve or zero */
