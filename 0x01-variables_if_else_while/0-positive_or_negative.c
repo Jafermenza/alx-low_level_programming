@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <time.h>
 /**
- *main.c
  *short description:documenation betty style for these f
  *Description:verify if the number is 0 or negative or positive
  *Return: Always 0 (Success)
