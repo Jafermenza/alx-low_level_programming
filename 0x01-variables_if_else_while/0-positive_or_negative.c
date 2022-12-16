@@ -1,9 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* main.c */
-
-/*
+/* main.c
 main - Entry point
 Description: 'verify if the number is 0 or negative or positive'
 Return: Always 0 (Success)
