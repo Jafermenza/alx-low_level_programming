@@ -22,7 +22,7 @@ int main(void)
   
 {
   
-  int n;
+  int n,ld;
   
 
   
@@ -30,7 +30,6 @@ int main(void)
   
   n = rand() - RAND_MAX / 2;
   
-int ld;
 ld = n % 10;
   
   if (ld < 0)
