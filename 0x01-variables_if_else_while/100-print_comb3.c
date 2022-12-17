@@ -13,7 +13,7 @@ int main(void)
   
 {
 int dig1, dig2;
-for (digit1 = 0; digit1 < 9; digit1++)
+for (dig1 = 0; dig1 < 9; dig1++)
 {
 for (dig2 = dig1 + 1; dig2 < 10; dig2++)
 {
